@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '22.3604',
-	defaultLongitude: '-47.3798',
+	defaultLatitude: '-22.360537',
+	defaultLongitude: '-47.379837',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Reddit',
+			icon: 'smile',
+			link: 'https://reddit.com/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Gmail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://gmail.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com',
 		},
 		{
 			id: '4',
@@ -77,54 +77,54 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'NextCloud',
+			icon: 'cloud',
+			link: 'https://www.mrussolo.com/nextcloud/index.php',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'MoneyLover',
+			icon: 'piggy-bank',
+			link: 'https://web.moneylover.me/',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'SnapDrop',
+			icon: 'refresh-cw',
+			link: 'snapdrop.net',
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
+			name: 'Twitch',
+			icon: 'twitch',
 			link: 'https://twitter.com/',
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'HBOMax',
+			icon: 'play-circle',
+			link: 'https://play.hbomax.com/profile/select',
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Amazon Gaming',
+			icon: 'gamepad-2',
+			link: 'https://gaming.amazon.com/home',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'cPanel',
+			icon: 'layout-dashboard',
+			link: 'https://eua01.sth.srv.br:2083/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'DAS/PGMEI',
+			icon: 'calculator',
+			link: 'https://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/pgmei.app/Home/Inicio',
 		},
 	],
 
