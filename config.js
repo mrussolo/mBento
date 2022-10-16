@@ -94,13 +94,13 @@ const CONFIG = {
 			id: '1',
 			name: 'SnapDrop',
 			icon: 'refresh-cw',
-			link: 'snapdrop.net',
+			link: 'https://snapdrop.net',
 		},
 		{
 			id: '2',
 			name: 'Twitch',
 			icon: 'twitch',
-			link: 'https://twitter.com/',
+			link: 'https://twitch.tv/',
 		},
 		{
 			id: '3',
